@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ItzTaqi
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScirpt
-- 💞️ I’m looking to collaborate on Any type of apps.
-- 📫 How to reach me email @taqihussain2011@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love coding.
+Hello, my name is Taqi Hussain. I am a high school student interested in coding, engineering, and AI development. I've created apps with over 1000 users and tutored many students in Python and JavaScript. In the future, I hope to expand my horizon and create more apps and technology. 
+
+For business inquiries, please email: thussain@my.waketech.edu
+
 
 <!---
 ItzTaqi/ItzTaqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
