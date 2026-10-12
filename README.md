@@ -2,6 +2,10 @@ Hello, my name is Taqi Hussain. I am a high school student interested in coding,
 
 For business inquiries, please email: thussain@my.waketech.edu
 
+
+[![Taqi's GitHub stats](https://github-stats-extended.vercel.app/api?username=ItzTaqi)](https://github.com/stats-organization/github-stats-extended)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItzTaqi/ItzTaqi/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItzTaqi/ItzTaqi/output/github-snake.svg">
