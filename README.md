@@ -2,6 +2,8 @@ I'm Taqi, a high school student passionate about Computer Science, Engineering, 
 I enjoy building technology that solves real-world problems, whether it's developing applications that benefit local communities, exploring AI-powered solutions, or designing innovative engineering systems.
 You can check out some of my projects right here on GitHub!
 
+---
+
 🔭 What I'm working on
 - Building BusSense, a crowdsourced school bus tracking platform designed to provide accurate arrival estimates without requiring additional hardware on buses.
 - Exploring AI and embedded systems, including sensor-based monitoring systems and real-time data processing.
