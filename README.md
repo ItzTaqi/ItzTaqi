@@ -2,6 +2,13 @@ Hello, my name is Taqi Hussain. I am a high school student interested in coding,
 
 For business inquiries, please email: thussain@my.waketech.edu
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItzTaqi/ItzTaqi/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItzTaqi/ItzTaqi/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ItzTaqi/ItzTaqi/output/github-snake.svg">
+</picture>
+
+
 
 <!---
 ItzTaqi/ItzTaqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
